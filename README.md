@@ -31,3 +31,7 @@ https://syncdpublic.dev/logos-v2/logo.light.svg
 Note some logos are only available in one theme. In that case just access them like this:
 
 https://syncdpublic.dev/logos-v2/logo.svg
+
+## Logo Uploads and Permissions
+
+If you are planning to upload a logo to this gallery, please ensure that you have the necessary permissions and rights to use and distribute the logo. We are not responsible for any copyright infringement or unauthorized use of logos. It is the uploader's responsibility to verify and obtain proper permissions before adding any logo to this collection.
