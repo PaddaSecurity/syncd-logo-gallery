@@ -1,6 +1,7 @@
 # Logo Gallery
 
 This project is sponsored by [Syncd](https://syncd.dev).
+In our V2 library we use logos currated from [SVGLibrary](https://svgl.app). So thank you to them for making this possible!
 
 Welcome to the Logo Gallery! This project provides a collection of static SVG and PNG logos for easy integration into your websites and applications.
 
